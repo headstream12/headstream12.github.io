@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "38EPGL5HAK.ru.detmir.app",
+        "paths": [
+          "/product/*"
+        ]
+      },
+      {
+        "appID": "38EPGL5HAK.ru.detmir.app.debug",
+        "paths": [
+          "/product/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "38EPGL5HAK.ru.detmir.app",
+      "38EPGL5HAK.ru.detmir.app.debug"
+    ]
+  }
+}
